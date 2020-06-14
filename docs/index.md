@@ -1,4 +1,7 @@
 ---
+title: Incident Management Protocols
+has_children: false
+nav_order: 1
 layout: default
 ---
 
