@@ -23,10 +23,10 @@
 
 ## Caveat
 
-These templates/guides will serve as baseline scenarios which will most likely not be exhaustive.
+These templates/guides will serve as baseline scenarios which will **most likely not be exhaustive**.
 
-For our engineers: It's important you follow the baseline scenarios and engage actively with the IcM team, we're here to help you.
+**For our engineers:** It's important you follow the baseline scenarios and engage actively with the IcM team, we're here to help you.
 
-For our clients: Our goal is to continuously improve. Our post incident reporting practices allow us to do so. 
+**For our clients:** Our goal is to continuously improve. Our post incident reporting practices allow us to do so. 
 If there are any concerns or suggestions that you'd like to make, feel free to open a ticket under the Issues tab. It is in our best interest to stay up to date.
 
