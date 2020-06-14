@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Incident Management Protocols
 
 * Last Modified: June 14, 2020
