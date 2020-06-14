@@ -1,2 +1,4 @@
-title: "Software For Love - Incident Management Protocols"
+title: "SFL - IcM Protocols"
 remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
