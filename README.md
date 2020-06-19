@@ -1,3 +1,9 @@
+---
+title: Incident Management Protocols
+has_children: false
+nav_order: 1
+---
+
 # Incident Management Protocols
 
 * Last Modified: June 14, 2020
