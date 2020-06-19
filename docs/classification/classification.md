@@ -23,10 +23,7 @@ nav_order: 2
 
 ## Diagrams
 
-<center>
-
 ### Classification
 
 ![IcM Lifecycle](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Classify.png)
 
-</center>

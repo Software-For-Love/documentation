@@ -16,8 +16,6 @@ It is in our best interest to protect vital IT systems to support business activ
 
 ## Diagrams
 
-<center>
-
 ### Lifecycle
 
 ![IcM Lifecycle](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Lifecyle.png)
@@ -26,5 +24,3 @@ It is in our best interest to protect vital IT systems to support business activ
 ### Tree
 
 ![IcM Tree](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Tree.png)
-
-</center>
