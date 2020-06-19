@@ -14,4 +14,4 @@ nav_order: 2
 
 ### Tree 
 
-![IcM Tree](/img/diagrams/sfl-icm-Tree.png)
+![IcM Tree](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Tree.png)
