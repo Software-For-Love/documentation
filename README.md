@@ -3,6 +3,10 @@
 * Last Modified: June 14, 2020
 * Authors: Faizaan Chishtie
 
+**!!DISCLAIMER!!**
+
+If there is an ongoing Incident please **FIRST** go to the [Incident Checklist](https://github.com/Software-For-Love/incident-management-protocols/blob/master/docs/checklist.md) page
+
 ## Purpose
 
 * To provide a set of protocols that will be followed by members of Software For Love when dealing with software/code related incidents (internal/external).
