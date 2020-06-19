@@ -12,8 +12,8 @@ nav_order: 2
 
 ### Lifecycle
 
-![IcM Lifecycle](/img/diagrams/sfl-icm-Lifecyle.png)
+![IcM Lifecycle](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Lifecyle.png)
 
 ### Tree 
 
-![IcM Tree](/img/diagrams/sfl-icm-Tree.png)
+![IcM Tree](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Tree.png)
