@@ -12,4 +12,4 @@ Here's where all the templates will be stored.
 
 ## Quick Links
 
-* [Open Incident Document Template](https://github.com/Software-For-Love/incident-management-protocols/blob/master/docs/Templates/Open%20Incident%20Document%20Template)
+* [Open Incident Document Template](https://github.com/Software-For-Love/incident-management-protocols/blob/master/docs/Templates/Open_Incident_Document_Template.md)
