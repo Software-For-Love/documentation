@@ -6,6 +6,8 @@ nav_order: 2
 
 # IcM Lifecycle
 
+---
+
 ## Diagrams
 
 ### Lifecycle

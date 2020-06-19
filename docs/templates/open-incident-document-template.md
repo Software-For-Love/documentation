@@ -5,6 +5,8 @@ parent: Templates
 nav_order: 1
 ---
 
+---
+```
 **Incident Information**
 
 * ID [REPO/ORG_DATE_CATEGORY] (for example: SOFTWAREFORLOVE/website_190620_HIGH)
@@ -33,3 +35,4 @@ If applicable, add screenshots to help explain the incident.
 
 **Additional context**
 Add any other context about the incident here.
+```

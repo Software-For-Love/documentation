@@ -6,6 +6,8 @@ nav_order: 3
 
 # Incident Checklist
 
+---
+
 ### FOLLOW THESE STEPS IF THERE IS AN ONGOING INCIDENT
 
 > Copy the contents of this document to the IcM team and fill an instance of it out accordingly.
@@ -13,6 +15,8 @@ nav_order: 3
 **I NEED TO:**
 
 Incident ID: [ORG/REPO_DATE(DDMMYY)_CATEGORY] (ex: [SOFTWAREFORLOVE/website_190620_HIGH])
+
+```
 
 ### Immediately
 
@@ -41,6 +45,8 @@ Incident ID: [ORG/REPO_DATE(DDMMYY)_CATEGORY] (ex: [SOFTWAREFORLOVE/website_1906
 
 - [ ] Resolve Incident
 - [ ] Post-Incident Report
+
+```
 
 ### Info
 
