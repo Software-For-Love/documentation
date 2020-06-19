@@ -7,6 +7,14 @@ layout: default
 * Last Modified: June 14, 2020
 * Authors: Faizaan Chishtie
 
+## Quick Links
+
+**!! DISCLAIMER !!**
+
+If there **is** an ongoing incident please go straight to the **Incident Checklist** below.
+
+* [Incident Checklist]()
+
 ## Purpose
 
 * To provide a set of protocols that will be followed by members of Software For Love when dealing with software/code related incidents (internal/external).
