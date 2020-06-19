@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Incident Prevention/Mitigation
+title: Templates
 parent: IcM Lifecycle
 has_children: true
 nav_order: 7
