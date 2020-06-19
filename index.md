@@ -4,7 +4,11 @@ has_children: false
 nav_order: 1
 ---
 
+<center>
+
 # Incident Management Protocols
+
+</center>
 
 * Last Modified: June 14, 2020
 * Authors: Faizaan Chishtie

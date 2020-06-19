@@ -11,6 +11,10 @@ nav_order: 1
 
 ## Diagrams
 
+<center>
+
 ### Prevention
 
 ![IcM Prevent](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Prevent.png)
+
+</center>

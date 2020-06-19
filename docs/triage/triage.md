@@ -11,6 +11,11 @@ nav_order: 3
 
 ## Diagrams
 
-### Classification
+<center>
+
+### Triage
 
 ![IcM Triage](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Triage.png)
+
+
+</center>

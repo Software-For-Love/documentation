@@ -11,6 +11,10 @@ nav_order: 5
 
 ## Diagrams
 
+<center>
+
 ### Report
 
 ![IcM Report](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Report.png)
+
+</center>
