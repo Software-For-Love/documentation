@@ -8,4 +8,10 @@ nav_order: 2
 
 ## Diagrams
 
+### Lifecycle
+
 ![IcM Lifecycle](/img/diagrams/sfl-icm-Lifecyle.png)
+
+### Tree 
+
+![IcM Tree](/img/diagrams/sfl-icm-Tree.png)
