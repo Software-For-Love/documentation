@@ -1,3 +1,9 @@
+---
+layout: default
+title: Incident Checklist
+nav_order: 3
+---
+
 # Incident Checklist
 
 ### FOLLOW THESE STEPS IF THERE IS AN ONGOING INCIDENT
