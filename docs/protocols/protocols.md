@@ -11,8 +11,8 @@ nav_order: 4
 
 ### Process
 
-![IcM Process](/img/diagrams/sfl-icm-Process.png)
+![IcM Process](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Process.png)
 
 ### Source Control Management Principles
 
-![IcM SCMP]('/img/diagrams/sfl-icm-sfl-icm-Source Control Management Principles.png')
+![IcM SCMP](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Source%20Control%20Management%20Principles.png)
