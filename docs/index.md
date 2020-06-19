@@ -13,7 +13,7 @@ layout: default
 
 If there **is** an ongoing incident please go straight to the **Incident Checklist** below.
 
-* [Incident Checklist]()
+* [Incident Checklist](https://github.com/Software-For-Love/incident-management-protocols/blob/master/docs/checklist.md)
 
 ## Purpose
 
