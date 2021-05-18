@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IcM Protocols
-parent: IcM Lifecycle
+parent: Incident_Management_Protocols
 nav_order: 4
 ---
 
@@ -18,4 +18,3 @@ nav_order: 4
 ### Source Control Management Principles
 
 ![IcM SCMP](https://raw.githubusercontent.com/Software-For-Love/incident-management-protocols/master/img/diagrams/sfl-icm-Source%20Control%20Management%20Principles.png)
-

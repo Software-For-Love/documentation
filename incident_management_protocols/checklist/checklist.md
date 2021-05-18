@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Incident Checklist
+parent: Incident_Management_Protocols
 nav_order: 4
 ---
 
@@ -27,7 +28,7 @@ Incident ID: [ORG/REPO_DATE(DDMMYY)_CATEGORY] (ex: [SOFTWAREFORLOVE/website_1906
 - [ ] Begin hotfix process
 - [ ] Publish temporary fix
 
-### Classification 
+### Classification
 
 - [ ] Classify the Incident
 - [ ] Triage the Incident
@@ -52,7 +53,5 @@ Incident ID: [ORG/REPO_DATE(DDMMYY)_CATEGORY] (ex: [SOFTWAREFORLOVE/website_1906
 
 (mark an 'x' within the [ ] for the checkboxes to have a tick in them)
 
-- [ ] (without x)
-- [x] (with x)
-
-
+-   [ ] (without x)
+-   [x] (with x)

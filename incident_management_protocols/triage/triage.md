@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Incident Triage
-parent: IcM Lifecycle
+parent: Incident_Management_Protocols
 nav_order: 3
 ---
 
@@ -15,9 +15,9 @@ nav_order: 3
 
 ### Informing
 
-* IcM Team
-* Relevant Teams
-* Stakeholders
+-   IcM Team
+-   Relevant Teams
+-   Stakeholders
 
 ## Diagrams
 

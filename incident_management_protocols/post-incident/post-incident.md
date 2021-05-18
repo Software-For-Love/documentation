@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Post Incident
-parent: IcM Lifecycle
+parent: Incident_Management_Protocols
 nav_order: 5
 ---
 
@@ -13,9 +13,8 @@ nav_order: 5
 
 ### Submitting an Incident Report
 
-* Templates
-* Practices
-
+-   Templates
+-   Practices
 
 ## Diagrams
 
