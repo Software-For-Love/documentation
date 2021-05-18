@@ -1,7 +1,6 @@
 ---
 title: IcM Lifecycle
-has_children: false
-parent: Incident_Management_Protocols
+parent: Incident Management Protocols
 nav_order: 2
 ---
 

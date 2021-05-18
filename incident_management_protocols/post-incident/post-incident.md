@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Post Incident
-parent: Incident_Management_Protocols
+parent: Incident Management Protocols
 nav_order: 5
 ---
 

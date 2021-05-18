@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Incident Checklist
-parent: Incident_Management_Protocols
+parent: Incident Management Protocols
 nav_order: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Templates
-parent: IcM Lifecycle
+parent: Incident Management Protocols
 has_children: true
 nav_order: 7
 ---
