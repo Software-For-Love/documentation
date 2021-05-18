@@ -1,5 +1,5 @@
 ---
-title: Onboarding Software Developer
+title: Software Developer
 parent: Onboarding
 nav_order: 2
 ---
