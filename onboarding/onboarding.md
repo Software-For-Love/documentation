@@ -12,4 +12,4 @@ Before you join your respective team, we ask all our members to complete a quick
 
 Proceed to the onboarding process for your role:
 
--   [Developer](https://software-for-love.github.io/documentation/onboarding/swe)
+-   [Software Developer](https://software-for-love.github.io/documentation/onboarding/swe)
