@@ -1,7 +1,7 @@
 ---
 title: Incident Management Protocols
 has_children: true
-nav_order: 2
+nav_order: 4
 ---
 
 # Incident Management Protocols

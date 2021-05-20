@@ -1,11 +1,9 @@
 ---
-layout: default
 title: Open Incident Document Template
 parent: Templates
 nav_order: 1
 ---
 
----
 ```
 **Incident Information**
 
