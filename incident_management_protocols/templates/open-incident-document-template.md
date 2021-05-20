@@ -1,7 +1,7 @@
 ---
 title: Open Incident Document Template
 parent: Templates
-grandparent: Incident Management Protocols
+grand_parent: Incident Management Protocols
 nav_order: 1
 ---
 
