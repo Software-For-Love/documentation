@@ -12,6 +12,13 @@ I have for you a few small challenges that shouldn't be too difficult to complet
 
 > Make sure to communicate on the #onboarding channel on Discord to get feedback!
 
+First and foremost:
+
+1. Create a Github [account](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account)
+2. Send your Github username to Hrithik on Discord to be added to the SFL Github org
+3. [Learn](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) about Github
+4. Set up [Git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
+
 ## Some goals
 
 Our goal is to:
