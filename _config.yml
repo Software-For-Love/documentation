@@ -3,3 +3,12 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 color_scheme: dark
+aux_links:
+    "Software For Love Website":
+        - "//www.softwareforlove.com"
+footer_content: 'Copyright &copy; 2021 Software For Love. Distributed by a <a href="https://github.com/Software-For-Love/documentation/blob/master/LICENSE.txt">Creative Commons license.</a>'
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/Software-For-Love/documentation"
+gh_edit_branch: "master"
