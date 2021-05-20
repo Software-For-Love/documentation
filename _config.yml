@@ -7,11 +7,14 @@ color_scheme: dark
 aux_links:
     "Software For Love Website":
         - "//www.softwareforlove.com"
-footer_content: '<a href="#top">Back to top</a>
+footer_content: '<span><a href="#top">Back to top</a></span>
 
 Copyright &copy; 2021 Software For Love. Distributed by a <a href="https://github.com/Software-For-Love/documentation/blob/master/LICENSE.txt">Creative Commons license.</a>'
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/Software-For-Love/documentation"
+gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" 
 aux_links_new_tab: true
