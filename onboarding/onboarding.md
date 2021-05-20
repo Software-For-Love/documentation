@@ -13,3 +13,6 @@ Before you join your respective team, we ask all our members to complete a quick
 Proceed to the onboarding process for your role:
 
 -   [Software Developer](https://software-for-love.github.io/documentation/onboarding/swe)
+-   [Project Manager](https://software-for-love.github.io/documentation/onboarding/pm)
+-   [Designer](https://software-for-love.github.io/documentation/onboarding/designer)
+-   [Marketing](https://software-for-love.github.io/documentation/onboarding/marketing)
