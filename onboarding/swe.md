@@ -140,9 +140,9 @@ After fiddling around with the template! You're going to deploy it using Netlify
 
 Upload your code to a git repo!
 
-Follow the instructions on netlify to connect and deploy your application. Make sure to ask for help if you need any!
+Follow the instructions on [Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) to connect and deploy your application. Make sure to ask for help if you need any!
 
-Check [https://sesanotes.netlify.app/](https://sesanotes.netlify.app/) to see a site I developed with Gatsby and deployed with Netlify!
+Check [https://sesanotes.netlify.app/](https://sesanotes.netlify.app/) to see a site developed with Gatsby and deployed with Netlify!
 
 ### Summary
 
