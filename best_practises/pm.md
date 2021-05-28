@@ -4,6 +4,8 @@ parent: Best Practices
 nav_order: 2
 ---
 
+Future updates: Leading client meetings
+
 # Best Practices: Project Manager
 
 Leading a team of developers and designers can be nerve-wracking, but it's a rewarding experience! As the person at the helm, you have to take on the most responsibility and that can cause a great deal of stress. This guide to project management should help relieve some of it!

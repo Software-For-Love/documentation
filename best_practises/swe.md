@@ -11,4 +11,3 @@ nav_order: 3
 -   github best practices
 -   general coding best practices (refactoring, testing, etc)
 -   kanban board (sprint planning)
--
