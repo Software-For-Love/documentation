@@ -23,22 +23,21 @@ First and foremost:
 
 Our goal is to:
 
--   Design the "Coming Soon" page for our website!
+-   Design a landing page for any of our current projects or a new idea that you might have!
 -   Get used to Figma
 -   Work together!
 
 ## What you need to do
 
-You're going to design your own version of the "Coming Soon" page for our website on Figma!
+You're going to design your own version of a landing page for a current or new project on Figma!
 
 > Doesn't need to be perfect! Something needs to be there though.
 
-We're going to review each others designs together on the Slack!
-Send your Figma project to the channel and people will give constructive feedback.
+Send your Figma project to the `#onboarding` channel and people will give constructive feedback.
 
 So you're going to:
 
-1. Design the "Coming Soon" page
+1. Design a landing page for any of our current projects or a new idea that you might have!
 2. Give feedback to others
 
 This should be completed within _7 days_ of you being assigned this task!
