@@ -8,7 +8,7 @@ nav_order: 3
 
 Hey Designers! Glad you could make it (:
 
-I have for you a few small challenges that shouldn't be too difficult to complete!
+We have for you a few small challenges that shouldn't be too difficult to complete!
 
 > Make sure to communicate on the #onboarding channel on Discord to get feedback!
 
