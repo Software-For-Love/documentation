@@ -6,7 +6,7 @@ nav_order: 2
 
 # Challenge: Designers
 
-Hey Candidates! Glad you could make it (:
+Hey Candidates! Glad you could make it :)
 
 We have for you a few small challenges that shouldn't be too difficult to complete!
 
