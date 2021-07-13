@@ -67,11 +67,11 @@ Check [https://sesanotes.netlify.app/](https://sesanotes.netlify.app/) to see a 
 
 ## Challenge
 
-This is the most crucial part. Now that you have your website up and running, we want you to implement a basic header. The header should be able to navigate between the homepage and "Page 2" and "Go to using Typescript" of the current site. You can make the header as sophisticated as you want, but we're going to assess only the functionality of the header, and look at coding practices you have employed in your solution. Designing a clean header will earn you bonus points!
+This is the most crucial part. Now that you have your website up and running, we want you to implement a basic header. The header should be able to navigate between the homepage and "Page 2" and "Go to using Typescript" of the current site. Make a new [branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) from your main branch in your Github repository. Once you're done, make a pull request and merge your changes back into the main branch. You can make the header as sophisticated as you want, but we're going to assess only the functionality of the header, and look at coding practices you have employed in your solution. Designing a clean header will earn you bonus points!
 
 ### Submission
 
-Submit a link to your Github repository through email to [team@softwareforlove.com](team@softwareforlove.com). Add a README.md to your repository to state your name and any other relevant pieces of information you want to convey. If you've used code from an external source then make sure to list it in the README as well!
+Submit a link to your Github repository through email to [soorya.s@softwareforlove.com](soorya.s@softwareforlove.com). Add a README.md to the root of your repository to state your name and any other relevant pieces of information you want to convey. If you've used code from an external source then make sure to list it in the README as well!
 
 ### Summary
 
@@ -81,7 +81,7 @@ So you're going to:
 2. Install node/gatsby/yarn
 3. Create a Netlify account and deploy your own website
 4. Challenge: Implement a header that navigates to the 3 pages of the site
-5. Send a link to your Github repository through email to [team@softwareforlove.com](team@softwareforlove.com).
+5. Send a link to your Github repository through email to [soorya.s@softwareforlove.com](soorya.s@softwareforlove.com).
 
 This should be completed within _7 days_ of you being assigned this task!
 
