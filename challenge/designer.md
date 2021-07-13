@@ -1,10 +1,10 @@
 ---
 title: Designer
-parent: Challenge
+parent: Challenges
 nav_order: 2
 ---
 
-# Challenge: Designers
+# Challenges: Designers
 
 Hey Candidates! Glad you could make it :)
 

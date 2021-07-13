@@ -1,10 +1,10 @@
 ---
 title: Software Developer
-parent: Challenge
+parent: Challenges
 nav_order: 1
 ---
 
-# Challenge: Software Developer
+# Challenges: Software Developer
 
 Hey Candidates! Glad you could make it :)
 
