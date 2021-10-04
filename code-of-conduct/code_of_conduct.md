@@ -4,4 +4,4 @@ has_children: true
 nav_order: 4
 ---
 
-# Challenges
+# Code of Conduct
