@@ -1,7 +1,7 @@
 ---
 title: SFL Code of Conduct
 parent: Code of Conduct
-nav_order: 1
+nav_order: 2
 ---
 
 # SFL Volunteers: Responsibilities
