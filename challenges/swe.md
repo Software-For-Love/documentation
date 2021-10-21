@@ -55,6 +55,10 @@ You should see a new folder called `gatsby-starter-default`.
 
 Tinker around with it a bit! (check under /src for js files).
 
+## Challenge
+
+This is the most crucial part. Now that you have your website up and running, we want you to incorporate a nav bar in the header of the site. The nav bar should be able to navigate between the homepage, "Page 2" and the "Go to using Typescript" pages on the current site. Make a new [branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) from your main branch in your Github repository. Once you're done, make a pull request and merge your changes back into the main branch. You can make the header as sophisticated as you want, but we're going to assess only the functionality of the nav bar, and look at coding practices you have employed in your solution. Designing a clean header will earn you bonus points!
+
 ### Deploying
 
 After fiddling around with the template! You're going to deploy it using Netlify!
@@ -65,9 +69,7 @@ Follow the instructions on [Netlify](https://www.netlify.com/blog/2016/09/29/a-s
 
 Check [https://sesanotes.netlify.app/](https://sesanotes.netlify.app/) to see a site developed with Gatsby and deployed with Netlify!
 
-## Challenge
 
-This is the most crucial part. Now that you have your website up and running, we want you to implement a basic header. The header should be able to navigate between the homepage and "Page 2" and "Go to using Typescript" of the current site. Make a new [branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) from your main branch in your Github repository. Once you're done, make a pull request and merge your changes back into the main branch. You can make the header as sophisticated as you want, but we're going to assess only the functionality of the header, and look at coding practices you have employed in your solution. Designing a clean header will earn you bonus points!
 
 ### Submission
 
@@ -80,7 +82,7 @@ So you're going to:
 1. Add your name the proper way to the file in Git! (We're going to get merge conflicts based on the order we submit so get ready to deal with those!)
 2. Install node/gatsby/yarn
 3. Create a Netlify account and deploy your own website
-4. Challenge: Implement a header that navigates to the 3 pages of the site
+4. Challenge: Implement a nav bar that navigates to the 3 pages of the site
 5. Send a link to your Github repository through email to [soorya.s@softwareforlove.com](soorya.s@softwareforlove.com).
 
 This should be completed within _7 days_ of you being assigned this task!
