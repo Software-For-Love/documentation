@@ -43,7 +43,7 @@ You're going to design a prototype of the "Donate" page for our website using Fi
 
 Be as creative as you want! Remember as a good designer, you should follow styling as seen throughout our site.
 
-Send your Figma project link to [soorya.s@softwareforlove.com](soorya.s@softwareforlove.com). If you have any questions or would like additional clarification, you can use the same email to reach us!
+Send your Figma project link to [team@softwareforlove.com](team@softwareforlove.com). If you have any questions or would like additional clarification, you can use the same email to reach us!
 
 This should be completed within _7 days_ of you being assigned this task!
 
