@@ -73,7 +73,7 @@ Check [https://sesanotes.netlify.app/](https://sesanotes.netlify.app/) to see a 
 
 ### Submission
 
-Submit a link to your Github repository through email to [soorya.s@softwareforlove.com](soorya.s@softwareforlove.com). Add a README.md to the root of your repository to state your name and any other relevant pieces of information you want to convey. If you've used code from an external source then make sure to list it in the README as well!
+Submit a link to your Github repository through email to [team@softwareforlove.com](team@softwareforlove.com). Add a README.md to the root of your repository to state your name and any other relevant pieces of information you want to convey. If you've used code from an external source then make sure to list it in the README as well!
 
 ### Summary
 
@@ -81,9 +81,9 @@ So you're going to:
 
 1. Add your name the proper way to the file in Git! (We're going to get merge conflicts based on the order we submit so get ready to deal with those!)
 2. Install node/gatsby/yarn
-3. Create a Netlify account and deploy your own website
-4. Challenge: Implement a nav bar that navigates to the 3 pages of the site
-5. Send a link to your Github repository through email to [soorya.s@softwareforlove.com](soorya.s@softwareforlove.com).
+3. Challenge: Implement a nav bar that navigates to the 3 pages of the site
+4. Create a Netlify account and deploy your own website
+5. Send a link to your Github repository through email to [team@softwareforlove.com](team@softwareforlove.com).
 
 This should be completed within _7 days_ of you being assigned this task!
 
