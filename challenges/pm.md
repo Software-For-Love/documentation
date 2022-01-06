@@ -12,9 +12,9 @@ We have for you a few small challenges that shouldn't be too difficult to comple
 
 First and foremost:
 
-Create a Github account
-Learn about Github
-Set up Git
+1. Create a Github account
+2. Learn about Github
+3. Set up Git
 
 While it is not a Project Managers (PM) direct responsibility to work on the codebase, it is important for them to be able to still interact with it and therefore you must be comfortable with Github and Git. 
 
@@ -43,10 +43,10 @@ dd/mm/yyyy  | dd/mm/yyyy | Phase 2
 
 Now the project is underway, and in the duration of the project conflicts arise and it is up to you to solve them. Below, two conflicts are outline which you must find a fair and produtive solution for: 
 
-1. Conflict 1:
+1. Conflict 1: \n
 The design of the website is due in one week. It has been split between multiple designers. One of the designers approaches you and informs you that they have a midterm exam this week and will not be able to complete their share of the work. Since SFL is a student/volunteer run organization we try to ensure that school comes first and no one is forced to overwork themselves. How do you ensure the timeline of the project is not deviated from?
 
-2. Conflict 2:
+2. Conflict 2: \n
 All members of your team are productive and contribute equally to the project. While having group discussion however, you notice that only a few members of the team actually speak. Others don't often provide their opinion. A good leader listens to everyone’s ideas before making a decision. How do you ensure you’ve heard everyone's ideas in a supportive manner?
 	
 _The solutions do not need to be more than a paragraph, and can be presented in a .doc, .txt or .pdf format._
