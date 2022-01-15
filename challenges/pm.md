@@ -29,7 +29,7 @@ You will be given a brief description on a project, and will be presented with a
 BeFit is a fitness organization which outlines various exercise packages for different levels of participants. They also offer trainers who can come in and teach the routines in these packages in person to offices, gyms, schools etc. Further, they sell fitness merchandise and equipment. In a post-pandemic world, they realize that offering their services online will allow them to always stay in business. They want to create a website which serves as an online platform where they can provide all their services: selling merchandise and equipment, their exercise packages, a sign-up system to acquire their trainers. 
 
 #### Task: Timeline
-This project is brought to you by BeFit and now you have to plan how the project will be executed. Come up with a timeline to determine the different phases of the project, the tasks required for each phase and how long each phase will take. The different phases could include design, development, testing etc. Some examples of tasks in the development phase could be each individual page being developed such as ‘Contact Us’, ‘About Us’ etc. It can be as simple as the sample table below. Find an organized and readable way to present the timeline. 
+This project is brought to you by BeFit and now you have to plan how the project will be executed. On your team, you have 3 desingers and 5 developers. Come up with a timeline to determine the different phases of the project, the tasks required for each phase and how long each phase will take. The different phases could include design, development, testing etc. Some examples of tasks in the development phase could be each individual page being developed such as ‘Contact Us’, ‘About Us’ etc. It can be as simple as the sample table below. Find an organized and readable way to present the timeline. Any assumptions you make must be stated in your final submission.
 
 ##### Sample Table
 
@@ -49,7 +49,7 @@ The design of the website is due in one week. It has been split between multiple
 2. Conflict 2 \
 All members of your team are productive and contribute equally to the project. While having group discussion however, you notice that only a few members of the team actually speak. Others don't often provide their opinion. A good leader listens to everyone’s ideas before making a decision. How do you ensure you’ve heard everyone's ideas in a supportive manner?
 	
-_The solutions do not need to be more than a paragraph, and can be presented in a .doc, .txt or .pdf format._
+Any assumptions you make must be stated in your final submission. _The solutions do not need to be more than a paragraph, and can be presented in a .doc, .txt or .pdf format._
 
 ### Submission
  
