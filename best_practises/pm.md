@@ -1,7 +1,7 @@
 ---
 title: Project Manager
 parent: Best Practices
-nav_order: 2
+nav_order: 3
 ---
 
 Future updates: Leading client meetings
