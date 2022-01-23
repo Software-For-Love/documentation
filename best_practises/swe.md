@@ -1,7 +1,7 @@
 ---
 title: Software Developer
 parent: Best Practices
-nav_order: 3
+nav_order: 2
 ---
 
 # Best Practices: Software Developer
