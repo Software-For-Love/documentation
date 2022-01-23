@@ -7,7 +7,7 @@ has_toc: false
 
 # Welcome to the Team!
 
-We're excited to have you join the team.:smiley:
+We're excited to have you join the team. :smiley:
 
 Before you join your respective team, we ask all our members to complete a quick but essential onboarding process.
 
