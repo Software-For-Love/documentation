@@ -54,7 +54,7 @@ An example for the previously mentioned user story could be: "**Given** that I d
 
 More informaiton on writing acceptance criteria can be found [here.](https://zepel.io/agile/acceptance-criteria-for-user-stories/)
 
-Additionally, it is also important to indicate the importance or priority of an issue when adding it to the product backlog. This will help your team be able to determine which issues they should pick up in sprint planning sessions (ie. More important stories should be completed as soon as possible, and less important stories can possibly be pushed to a later sprint.)
+Additionally, it is also important to indicate the priority of an issue when adding it to the product backlog. This will help your team be able to determine which issues they should pick up in sprint planning sessions (ie. More important stories should be completed as soon as possible, and less important stories can possibly be pushed to a later sprint.)
 
 ## Sprint Planning
 **Sprints** are a time period determined by the team where select tasks from the product backlog are worked on and completed. Tackling a project in sprints helps reduce the "intimidation" factor. It's like saying you're going to bike across Canada. Anyone would be intimidated by that, but if you say you're going to bike 20 km a day, that becomes a lot easier.
