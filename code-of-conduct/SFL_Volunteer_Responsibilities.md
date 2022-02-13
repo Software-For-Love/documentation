@@ -17,33 +17,34 @@ The expectations of volunteers at Software For Love vary based on their assigned
 
 ## General:
 Volunteers must fulfill the following responsibilities:
-Adhere to Software For Love’s Code of Conduct.
-Perform the services required by the position for an average of 5 hours per week.
-Regularly participate in team meetings
-Inform their manager or the respective officer responsible for oversight of their team regarding anticipated absences
-In the event of an unanticipated absence, provide a reasonable explanation to their project manager or the respective officer responsible for oversight of their team.
+* Adhere to Software For Love’s Code of Conduct.
+* Perform the services required by the position for an average of 5 hours per week.
+* Regularly participate in team meetings.
+* Be absent for no more than 3 meetings per semester.
+* Inform their manager or the respective officer responsible for oversight of their team regarding anticipated absences.
+* In the event of an unanticipated absence, provide a reasonable explanation to their project manager or the respective officer responsible for oversight of their team.
 
 ## Project Managers:
 Project Managers must fulfill the following responsibilities:
-Manage the specifications and timeline of project development
-Facilitate regular team meetings to ensure clear communication between teammates
-Facilitate consistent communication with clients regarding project progress
-Report to the Chief Technology Officer regarding project progress on a bi-weekly basis.
+* Manage the specifications and timeline of project development
+* Facilitate regular team meetings to ensure clear communication between teammates
+* Facilitate consistent communication with clients regarding project progress
+* Report to the Chief Technology Officer regarding project progress on a bi-weekly basis.
 
 ## Software Developers, UI/UX Designers, Platform Engineers:
 Volunteers who are categorized under the aforementioned roles must fulfill the following responsibilities:
-Work with teammates to successfully complete tasks in a timely manner
-Provide technical guidance to Project Manager(s) where appropriate
-Regularly participate in team meetings
-Regularly report to Project Manager(s)
+* Work with teammates to successfully complete tasks in a timely manner
+* Provide technical guidance to Project Manager(s) where appropriate
+* Regularly participate in team meetings
+* Regularly report to Project Manager(s)
 
 ## Marketing Associates:
 Marketing Associates must fulfill the following responsibilities:
-Regularly report to the Chief Marketing Officer regarding progress on a weekly basis.
+* Regularly report to the Chief Marketing Officer regarding progress on a weekly basis.
 
 ## Finance Associates:
 Finance Associates must fulfill the following responsibilities:
-Regularly report to the Chief Financial Officer regarding progress on a weekly basis.
+* Regularly report to the Chief Financial Officer regarding progress on a weekly basis.
 
 ## Failure to Meet Responsibilities
 This section identifies the course of action which shall take place in the event that any volunteer fails to meet the aforementioned responsibilities.
