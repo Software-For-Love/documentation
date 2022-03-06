@@ -1,13 +1,13 @@
 ---
 title: Onboarding
 has_children: true
-nav_order: 7
+nav_order: 8
 has_toc: false
 ---
 
 # Welcome to the Team!
 
-We're excited to have you join the team.:smiley:
+We're excited to have you join the team.
 
 Before you join your respective team, we ask all our members to complete a quick but essential onboarding process.
 
