@@ -41,6 +41,7 @@ Netlify is able to simply connect to your code repository on Github, and host yo
 Software For Love is open to develop any type of software solution! However, we tend to find that most non-profits and charities are looking for web-based software solutions (web applications or websites). We also do consultations, to provide insight and guidance to how non-profits and charities can improve their existing software solutions so that they're able to maximize their impact.
 
 **What technologies and tools do you use?**
+
 When developing web applications, we usually use a MERN stack in JavaScript.
 
 MERN stands for the following:
@@ -54,9 +55,11 @@ See: *What is a tech stack?*
 For a lot of our website, we also like to use GatsbyJS. Gatsby is a *React*-based framework.
 
 **How often do we get projects?**
+
 We constantly receive project requests throughout the year. However, we typically begin new projects at the beginning of a term (early January, May, or September).
 
 **What does the process for starting a project look like?**
+
 When a project request is received by Software For Love, executives set up a meeting with the prospective client and associated stakeholders to gain an understand of their organization, as well as their high-level software needs. An assessment is made to determine if our organization should take on this project. A large factor in this process is the legal status of this organization (whether they are a not-for-profit or charity), the social impact that this project would have, as well as whether we believe it would be a feasible project that we can take on.
 
 If executives at Software For Love decide to take on a project, then we will inform the prospective client and begin searching for a project manager. This project manager is then tasked with eliciting specific requirements for the project, crafting an appropriate timeline, and also interviewing candidates for their team. The project manager is expected to lead the project to completion. More information regarding the role of a project manager during a project [can be found here.](https://software-for-love.github.io/documentation/best_practises/pm.html)
