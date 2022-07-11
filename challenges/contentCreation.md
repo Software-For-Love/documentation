@@ -28,7 +28,7 @@ It is orange shirt day in September. You need to create a post that reflects SFL
 The SFL Instagram page received hate comments under the post. It says, “I chose not to wear an orange shirt today. Why wear a colour and demand children to wear a colour? There is no need to remind people in these super stressful times that kids died”. What is your course of action?
 
 #### Tools Provided
-Social media toolkit, highlights the colours we use, the fonts we use, the path we’re taking on each platform. You can find this kit here[].
+Social media toolkit, highlights the colours we use, the fonts we use, the path we’re taking on each platform. You can find this kit [here](https://github.com/Software-For-Love/documentation/blob/master/best_practises/Software_for_Love_SocialMediaToolkit.pdf).
 
 ### Submission
  
