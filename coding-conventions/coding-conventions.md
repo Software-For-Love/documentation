@@ -29,3 +29,14 @@ Here’s a quick guideline for how we should be developing:
   * If you don’t know something, ask people because sometimes that’s much faster than googling it 
   * Propose new ideas if you have any 
   * We must have some great documentation to accompany our module. Please document your functions. 
+
+## Testing Guidelines
+
+These are some rough guidelines that allow for clean and stable code to be pushed to a production branch.
+
+* Build is passing  
+* CI/CD checks on PR are passing
+* Test that application looks presentable on different screen sizes
+  * Different computer sizes
+  * Mobile Versions
+  * Tablets/iPads
